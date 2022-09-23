@@ -1,1 +1,6 @@
-
+hardware/*
+hardware/Lab3
+software/*
+!software/status_app
+software/status_app/*
+!software/status_app/src
